@@ -3,5 +3,5 @@
 
 - Uses state machine design for determining whether someone is pulling or not on e-cig
 - Includes Ardiuno Code along side Python script to read Serial Monitor
-- Early test: https://vimeo.com/767780568
+- Demo Video: https://drive.google.com/file/d/1-U5kBQPPZ_6vMnvwWQePgeIOfCEZg_Dr/view
 - By end of November will include Unreal Engine VR demo which uses e-cig as controller
